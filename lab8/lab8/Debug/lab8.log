@@ -1,0 +1,6 @@
+﻿  lab8.cpp
+H:\lab8\lab8\lab8.cpp(113,9): warning C4552: '>=': result of expression not used
+H:\lab8\lab8\lab8.cpp(113,17): warning C4018: '<': signed/unsigned mismatch
+H:\lab8\lab8\lab8.cpp(151,9): warning C4552: '>=': result of expression not used
+H:\lab8\lab8\lab8.cpp(151,17): warning C4018: '<': signed/unsigned mismatch
+  lab8.vcxproj -> H:\lab8\Debug\lab8.exe
